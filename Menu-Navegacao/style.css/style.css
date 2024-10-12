@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    padding: 15px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    list-style: none;
+}
+li{
+    margin:10px;
+    padding: 10px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:hover{
+    color: tomato;
+    
+}
+
+section{
+    padding: 10px;
+    height: 300px;
+}
